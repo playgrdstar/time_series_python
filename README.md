@@ -1,3 +1,3 @@
-# Introduction to Expected Shortfall
+# Introduction to Time Series Analysis
 
-Quick introduction to Expected Shortfall
+Introduction to time series analysis in Python
